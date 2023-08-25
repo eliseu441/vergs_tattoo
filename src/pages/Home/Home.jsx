@@ -75,7 +75,7 @@ function Home() {
                     <div class="col-12 d-flex justify-content-center background-orcament" >
                         <h1 class="my-work ">PERSOLALIZAÇÃO </h1>
                     </div>
-                    <div class="col-12 d-flex justify-content-center " ><a href="https://api.whatsapp.com/send/?phone=5512982047622&text&type=phone_number&app_absent=0" class="animated-button1">
+                    <div class="col-12 d-flex justify-content-center " ><a href="/personalize" class="animated-button1">
                         <span></span>
                         <span></span>
                         <span></span>
