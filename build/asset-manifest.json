@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.590b651f.css",
+    "main.js": "/static/js/main.16f677af.js",
+    "static/js/787.2716128e.chunk.js": "/static/js/787.2716128e.chunk.js",
+    "static/media/1540.jpg": "/static/media/1540.b989a24480fa827291a4.jpg",
+    "static/media/backgroundHome2.png": "/static/media/backgroundHome2.62c7d07e6e7c9d4f7953.png",
+    "static/media/backgroundSide.jpg": "/static/media/backgroundSide.16297da2e31a1d448d1e.jpg",
+    "static/media/header2.jpg": "/static/media/header2.9058b11d67952c86a269.jpg",
+    "static/media/header1.png": "/static/media/header1.b2ca8676e7c83d6f9207.png",
+    "static/media/logoV.png": "/static/media/logoV.cff0cbfc6a80ba160e7f.png",
+    "static/media/backgroundHome1.jpg": "/static/media/backgroundHome1.3fd325441e4a63943d6a.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/backgroundCarousel.png": "/static/media/backgroundCarousel.76616210b02fc5afd848.png",
+    "static/media/description.png": "/static/media/description.3ddaf76bb20522fda70f.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/createProject.png": "/static/media/createProject.f7c749072813c4139aaf.png",
+    "static/media/resized1.png": "/static/media/resized1.682240c8c00c92b67027.png",
+    "static/media/resized3.png": "/static/media/resized3.ebe60cef5b14ac3223c4.png",
+    "static/media/resized4.png": "/static/media/resized4.fd838acef615ea667bd3.png",
+    "static/media/resized2.png": "/static/media/resized2.59accdbd6f6c3d9078d0.png",
+    "static/media/resized5.png": "/static/media/resized5.626e4e382e2e622e532c.png",
+    "static/media/quebra1.png": "/static/media/quebra1.6e59dd54fdae276087c6.png",
+    "static/media/logo.png": "/static/media/logo.2b41cd80c1bb39971efb.png",
+    "static/media/quebra2.png": "/static/media/quebra2.4cb66228f1820fd20e0b.png",
+    "index.html": "/index.html",
+    "static/media/0-circle-fill.svg": "/static/media/0-circle-fill.5b81338f1d80ffbeeeea0ed13dbd5f74.svg",
+    "main.590b651f.css.map": "/static/css/main.590b651f.css.map",
+    "main.16f677af.js.map": "/static/js/main.16f677af.js.map",
+    "787.2716128e.chunk.js.map": "/static/js/787.2716128e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590b651f.css",
+    "static/js/main.16f677af.js"
+  ]
+}

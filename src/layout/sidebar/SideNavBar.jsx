@@ -68,18 +68,22 @@ const SideNavBar = () => {
 							<div className="submenu">
 								<div>
 									<div class="list-group ">
+									<Link to="https://www.instagram.com/vergz.tattoo/" className="decoration " onClick={e => removeChecked()}>
 										<span class="list-group-item list-group-item-action "><span class="text-margin  ">
 
 											<span style={{ marginLeft: "20px", color:"red"  }} class="menu-titles">  <i class="bi bi-instagram fs-6" ></i></span>
 											<span style={{ marginLeft: "10px" }} class="menu-titles "> Instagram	</span>
 										</span></span>
+										</Link>
 									</div>
 									<div class="list-group">
+									<Link to="https://api.whatsapp.com/send/?phone=5512982047622&text&type=phone_number&app_absent=0" className="decoration " onClick={e => removeChecked()}>
 										<span class="list-group-item list-group-item-action "><span class="text-margin ">
 
 											<span style={{ marginLeft: "20px", color:"rgb(22, 238, 22)" }} class="menu-titles ">  <i class="bi bi-whatsapp icons-size"></i></span>
 											<span style={{ marginLeft: "10px" }} class="menu-titles "> Whatsapp	 </span>
 										</span></span>
+										</Link>
 									</div>
 								</div>
 							</div>
