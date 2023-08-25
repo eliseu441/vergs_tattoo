@@ -1,0 +1,90 @@
+.content-step{
+  color: antiquewhite;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
+  padding: 10%;
+  margin-top: 130px;
+}
+
+.ant-steps-item-title{
+  color: #eee!important;
+  font-family: 'Metal Mania', sans-serif;
+  background: -webkit-linear-gradient(#ffffff, #ff0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bolder;
+  letter-spacing: 3px!important;
+}
+
+#tamanho{
+  
+  width: 100%;
+  color: rgb(36, 35, 42);
+  font-size: 16px;
+  line-height: 20px;
+  min-height: 28px;
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: 2px solid transparent;
+  box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+  background: rgb(251, 251, 251);
+  transition: all 0.1s ease 0s;
+  
+
+}
+#tamanho:focus{
+  border: 2px solid rgb(124, 138, 255);
+} 
+#local{
+  
+  width: 100%;
+  color: rgb(36, 35, 42);
+  font-size: 16px;
+  line-height: 20px;
+  min-height: 28px;
+  border-radius: 4px;
+  padding: 8px 16px;
+  border: 2px solid transparent;
+  box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+  background: rgb(251, 251, 251);
+  transition: all 0.1s ease 0s;
+  
+
+}
+#local:focus{
+  border: 2px solid rgb(124, 138, 255);
+} 
+.form__item label{
+  
+  color: #eee!important;
+  font-family: 'Metal Mania', sans-serif;
+  background: -webkit-linear-gradient(#ffffff, #ff0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bolder;
+  letter-spacing: 3px!important;
+}
+
+.wrapper {
+  animation: scroll 50s linear infinite;
+  background: url("./img/1540.jpg"),
+    rgb(17, 17, 17);
+    
+    background-size: 100%;
+  color: #eee;
+  height: 100vh;
+  min-width: 360px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  perspective: 1000px;
+  perspective-origin: 50% 50%;
+}
+
+@keyframes scroll {
+  100% {
+    background-position: 0px -400%;
+  }
+}
